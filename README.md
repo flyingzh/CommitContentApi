@@ -1,0 +1,2 @@
+# CommitContentApi
+Api 25新功能，原生支持在软键盘中选取图片,这个项目clone自谷歌官方示例，但是原示例有缺陷，已经向官方提issue,我自己已经修复.可以使用Api25的模拟器中自带的Goole Mesager测试
